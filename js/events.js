@@ -4,7 +4,7 @@ $(document).ready(function() {
     $('.instruction-note').hide();
 
     var link ='https://youtu.be/Tk8Zl9c49XM';
-    $('.main-event').append('<a  id="hidden-link" href="'+link+'" target="_blank">aa</a>'); 
+    $('.main-event').append('<a  id="hidden-link" href="'+link+'" target="_blank"></a>'); 
      
 $('.btn-event').click(function() {
     
