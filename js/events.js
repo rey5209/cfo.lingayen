@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.thanks-note').hide();
     $('.instruction-note').hide();
 
-    var link ='https://youtu.be/Tk8Zl9c49XM';
+    var link ='https://youtu.be/Tk8Zl9c49XM?t=1';
     $('.main-event').append('<a  id="hidden-link" href="'+link+'" target="_blank"></a>'); 
      
 $('.btn-event').click(function() {
