@@ -2,8 +2,8 @@
 $(document).ready(function() {
     var current_page = 1;
     var max_page = 2;
-    var page_main_tittles = ['KADA UMAGA | LINGAYEN PANGASINAN | DECEMBER 10 , 2021			',
-                            'ASPN | LINGAYEN PANGASINAN | DECEMBER 14 , 2021'];
+    var page_main_tittles = ['KADA UMAGA | DECEMBER 10 , 2021			',
+                            'A.S.P.N | DECEMBER 14 , 2021'];
     var page_sub_tittles = ['KADA UMAGA','ASPN'];
 
     updatePaging(current_page,max_page,page_main_tittles,page_sub_tittles)
