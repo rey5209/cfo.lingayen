@@ -6,7 +6,7 @@ $(document).ready(function() {
     var link ='https://youtu.be/6AeAwSqHFVI?t=1';
     $('.main-event').append('<a  id="hidden-link" href="'+link+'" target="_blank"></a>'); 
      
-$('.btn-event').click(function() {
+$('.post-btn').click(function() {
     
     // window.open("https://youtu.be/Tk8Zl9c49XM", "_blank"); 
     $('.main-event').hide(); 
