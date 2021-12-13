@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.thanks-note').hide();
     $('.instruction-note').hide();
 
-    var link ='https://youtu.be/Tk8Zl9c49XM?t=1';
+    var link ='https://youtu.be/6AeAwSqHFVI';
     $('.main-event').append('<a  id="hidden-link" href="'+link+'" target="_blank"></a>'); 
      
 $('.btn-event').click(function() {
@@ -21,7 +21,7 @@ $('.btn-event').click(function() {
         $('.thanks-note').show();
         // alert("Hello"); 
 
-    }, 600000 ); 
+    }, 5500 ); 
         // 1sec = 1000
         // 15sec = 5500
         // 1min = 60000
