@@ -21,9 +21,10 @@ $('.btn-event').click(function() {
         $('.thanks-note').show();
         // alert("Hello"); 
 
-    }, 5500 ); 
+    }, 15000 ); 
         // 1sec = 1000
-        // 15sec = 5500
+        // 7sec = 5500
+        // 15sec = 15000
         // 1min = 60000
         // 10 min = 600000
   });
