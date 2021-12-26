@@ -1,0 +1,75 @@
+.btn-sample2 {
+    align-self: auto;
+    font-size: 25px;
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #1A8C0F;
+	*background-color: #1A8C0F;
+	background-image: -moz-linear-gradient(top, #5FE84C, #1A8C0F);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5FE84C), to(#1A8C0F));
+	background-image: -webkit-linear-gradient(top, #5FE84C, #1A8C0F);
+	background-image: -o-linear-gradient(top, #5FE84C, #1A8C0F);
+	background-image: linear-gradient(to bottom, #5FE84C, #1A8C0F);
+	background-repeat: repeat-x;
+	border-color: #1A8C0F;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5FE84C', endColorstr='#1A8C0F', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-sample2:hover,
+.btn-sample2:focus,
+.btn-sample2:active,
+.btn-sample2.active,
+.btn-sample2.disabled,
+.btn-sample2[disabled] {
+	color: #FFFFFF;
+	background-color: #1A8C0F;
+	*background-color: #003bb3;
+}
+
+.btn-sample {
+    background: #5FE84C;
+    background-image: -webkit-linear-gradient(top, #5FE84C, #1A8C0F);
+    background-image: -moz-linear-gradient(top, #5FE84C, #1A8C0F);
+    background-image: -ms-linear-gradient(top, #5FE84C, #1A8C0F);
+    background-image: -o-linear-gradient(top, #5FE84C, #1A8C0F);
+    background-image: linear-gradient(to bottom, #5FE84C, #1A8C0F);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 8px 35px 8px 35px;
+    text-decoration: none;
+  }
+  
+  .btn-sample:hover {
+    background: #71d160;
+    background-image: -webkit-linear-gradient(top, #71d160, #59b34b);
+    background-image: -moz-linear-gradient(top, #71d160, #59b34b);
+    background-image: -ms-linear-gradient(top, #71d160, #59b34b);
+    background-image: -o-linear-gradient(top, #71d160, #59b34b);
+    background-image: linear-gradient(to bottom, #71d160, #59b34b);
+    text-decoration: none;
+  }
+
+.hide-this{
+    display: none;
+}
+#comments{
+    
+    display: none;
+}
+a:link { text-decoration: none;  
+}
+
+.txt-center{
+    text-align: center;
+ }
+ .txt-notes{
+     font-size: 25px;
+ }
+ .txt-bold{
+    font-weight: bold;
+ }
