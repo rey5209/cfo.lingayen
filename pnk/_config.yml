@@ -1,0 +1,17 @@
+title: KADA UMAGA | LINGAYEN PANGASINAN 
+email: rey52090@gmail.com
+description: >- # This mean ignore newlines until base url;
+baseurl: "https://lingayen.github.io/"
+url: ""
+twitter_username:
+github_username: Lingayen
+author: Rey Ramos Tuñacao
+
+# Build Settings 
+Markdown:  kramdown  
+paginate:  10
+paginate_path:  "/post"
+plugins:
+ - jekyll-feed
+ - jekyll-pageniate
+ - jekyll-sitemap ## uncomment this line to silently generate a sitemaps.org compliant sitemap for your jekyll site
