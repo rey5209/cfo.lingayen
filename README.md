@@ -15,7 +15,7 @@ Google Team
 
 
 ```
-./
+./googlefirebase
 ├── .editorconfig
 ├── gulpfile.js
 ├── package.json
